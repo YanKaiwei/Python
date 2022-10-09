@@ -1,3 +1,5 @@
+### 以下代码仅供学习使用 ###
+
 # 引入requests模块-第三方模块
 import requests
 # 引入fake_useragent模块-第三方模块
