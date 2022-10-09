@@ -9,7 +9,7 @@ from lxml import etree
 # 引入time模块-內建模块
 import time 
 # 引入random模块-內建模块
-import random 
+import random  
 # 引入json模块-內建模块
 import json
 # 引入csv模块-內建模块
